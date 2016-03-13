@@ -6,6 +6,9 @@
 
 4.测试类 AlertServiceTest.java
 
+运行:
+需要先下载apache-activemq-5.4.2，然后运行bin/activemq.bat
+
 错误记录:
 
 Issue1:注入时，始终报NullPointException
